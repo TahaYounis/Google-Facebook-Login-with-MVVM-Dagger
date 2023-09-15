@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="facebook_btn_bg">
+        <item name="android:height">55dp</item>
+    </style>
+</resources>

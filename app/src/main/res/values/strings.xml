@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="default_web_clind_id">353285931688-6eipdseqd67etmcu8q55gp7j2epqlfdc.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">842100907587002</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
